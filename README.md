@@ -1,4 +1,4 @@
-# Sports Non-Sports Classification
+# Sports Non-Sports Classification model
 
 
 
