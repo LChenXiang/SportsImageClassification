@@ -1,4 +1,4 @@
-# FIT3162 MCS2 Sports Non-Sports Classification
+# Sports Non-Sports Classification
 
 
 
